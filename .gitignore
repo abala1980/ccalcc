@@ -1,5 +1,7 @@
 .gradle
 .bat
+ccalc_rsa
+ccalc_rsa.pub
 bin/
 scratch/
 target/
